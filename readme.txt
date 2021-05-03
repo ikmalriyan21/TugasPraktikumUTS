@@ -7,6 +7,8 @@ is also versatile enough to be used for other types of websites. The template co
 various purposes, such as agency, portfolio, landing page, small business, and freelancer sites. 
 In addition to that, blog pages for archives and single entry are also included in the template.
 
+URL Desain Mockup (file:///C:/File%20kuliah%20semester%204/Pemograman%20Web/UTS/Kreative_2_0_0/index.html)
+
 ==================================================================================================
 
 
